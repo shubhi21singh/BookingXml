@@ -1,0 +1,72 @@
+<!-- below booking created on 2017-12-16 12:55:09.0 -->
+<BookingXML>
+
+
+
+	<Master ADTUser="" AffiliateCode="YT" AgentId="YTMOBILEAND" BookingDate="2017-12-16" Channel="" ClientId="" CompID="YT" CorporateId="YT" CurrCode="INR" Discount="" DiscountType="" Flight="" LangCode="EN" Package="" PackageType="" Source="ONL"  Ver="1.0.0" promotionCode="" TypeOfBooking="D"/>
+			<PaymentDetails AVS="" AcceptanceLevel="F" AuthCode="" CIssuedName="Manoj Kumar" CName="MC" CSC="" ECI="" EFTSeqNo="pay_9DvVMzaPUNaytf" EFTSequenceNumber="pay_9DvVMzaPUNaytf" EXP="xxxxxx" IVRId="" IssueDate="" IssueNumber=""
+	                Note="Success" Number="552365xxxxxx0568" PaymentGateway="razor_pay" PaymentMeCode="rzp_live_Ei1Z14MSrfWuGj" PaymentMode="pur" ReceiptNo="pay_9DvVMzaPUNaytf" SECURNO="" Status="SUCCESS" Type="CC" YTUniqueID="1612752156338" ReceivedAmount="2094.0"/>
+	
+								<EwalletYLPDetails AVS="" AcceptanceLevel="" AuthCode="" CIssuedName="" CName="" CSC="" ECI="" EFTSeqNo="" EFTSequenceNumber="8S3306L51K2E57J2" EXP="" IVRId="" IssueDate="" IssueNumber=""
+		                Note="Redeem Capture operation successful" Number="" PaymentGateway="YLP" PaymentMeCode="E-WALLET-YP" PaymentMode="pur" ReceiptNo="8S3306L51K2E57J2-YLP" SECURNO="" Status="SUCCESS" Type="EWALLETYLP" YTUniqueID="1612752156338" ReceivedAmount="235"/>
+					<ClientDetails Address1="" Address2="" City="" CountryCode="IN" DayPhone="9971772822" Email="manojkr.mail@gmail.com" FName="Manoj" Fax="" ISDCode="91" LName="" NightPhone="9971772822" PostalCode="" State="" Title="" />
+	<GSTDetails CompanyName="" Address="" StateCode="" City="" PinCode="" Phone="" EMail="" Number=""/>
+	<BookingDetails AirSell="No" BookingRef="1612752156338" CarSell="No" HotelSell="Yes" InsuranceSell="No" Note="Confirm B" OtherProductSell="No" PackagePrice="No" AffiliateId="" LeadId="" />
+	<PassengerInfo NoOfAdult="1" NoOfChild="0" NoOfInfant="0">
+	    				  <LeadPax DOB="" FOIDType="" FirstName="Manoj" Gender="" Id="1" MiddleName="" LastName="Kumar" Nationality="" PassportExpiryDate="" PassportGivenName="" PassportIssueCountry="" PassportNo="" PassportSNLN="" RedressNumber="" Title="Mr" Type="ADT" /> 
+					</PassengerInfo>
+	<DispatchDetails Charge="" Currency="" DelCode="EVCHR" DelType="EVOUCHER" NetCharge=""/>
+
+	<DeliveryDetails Address1="" Address2="" Address3="" City="" CountryCode="" FName="Manoj" LName="" PostalCode="" Title=""/>
+	<BillingDetails Address1="" Address2="" Address3="" City="" CountryCode="IN" FName="Manoj" LName="" PostalCode="" Title=""/>
+	
+
+
+	<HotelInfo>
+		<Stay CheckIn="2017-12-28" CheckInTime="12:00:00" CheckOut="2017-12-29" CheckOutTime="11:00:00" StateCode="29" CityCode="Bangalore"/>
+		<Inclusions>Breakfast, Complimentary Wi-Fi Internet</Inclusions>
+		<Exclusions></Exclusions>
+				<SupplierContactName/>
+		<SupplierContactPhone>91-0-9322800100,91-0-41234333</SupplierContactPhone>
+		<SupplierContactEmail></SupplierContactEmail>
+				<StarRating>3</StarRating>
+		<TGProvisionalConfirmationNumber>2103898397</TGProvisionalConfirmationNumber>
+		<EANConfirmationNumber></EANConfirmationNumber>
+		<Hotel  Address="#105, 1st Main Road, Opposite Jatka Gaadi Stand, Guttahalli Circle,, Bengaluru., BANGALORE, KARNATAKA, 560020" Deposit="" FlightId="" HotelChainCode="" HotelChainName="" HotelCode="TGR-00002274" Id="TGR-00002274" Name="Treebo Orchard Suites" Note="" PostPaid="" VendorCode="" Assurance="YES" BusinessModel="" SourceSystem=""  HomeStay="NO" StayType=""  HostName="" HostMobile="" Notes="">
+			<GrossCurrency>INR</GrossCurrency>
+			<ChildPolicy/>
+							<CancelPolicy>Full refund if you cancel this booking by 27-Dec-17 12:00 PM IST.</CancelPolicy>
+							<CancelPolicy>First night cost (including taxes &amp; service charge) will be charged if you cancel this booking later than 27-Dec-17 12:00 PM IST. You might be charged upto the full cost of stay (including taxes &amp; service charge) if you do not check-in to the hotel.</CancelPolicy>
+						<PaxAssociated>1</PaxAssociated>
+			<Status>HK</Status>
+			<ConfirmationNumber>YATMB0004488274</ConfirmationNumber>
+			<HotelSourceCode>YATMB</HotelSourceCode>
+			<Tour_Type></Tour_Type>
+			<Fare_Type></Fare_Type>
+			<NetCurrency>INR</NetCurrency>
+			<Supplier HotelCanxPolicy="" Name="" SupplierCanxPolicy="" SupplierCode="TGU" SupplierEmail="" SourceSystem="TG" />
+						<Rooms NoOfRooms="1">
+				<Room AdtTax="" ChdTax="" CommercialType="" GrossAdt="" GrossChd="" GrossTotal="2778.0" Meal_Code="0000961589" Meal_Plan="0000961589" Name="Premium- Smart Gain Rate" NetAdt="" NetChd="" NettTotal="2778.0" OccADT="2" OccCHD="2" ServiceTax="0.0" Supplier=""
+				      TotalTax="751.49" WSNettTotal="" ExtraGuest = "580.00" CommissionAmount = "0.0" CommissionRate = "0.0" BaseAmount = "1088.2399999999998" NetTax="751.49" Markup="0.0" BookingCurrencyROE="" BookingCurrency="" RequestedCurrency="" GrossInBookingCurrency="2778.0" NettInBookingCurrency="1451.3687999999997" HotelDiscount="1285.0" >
+				</Room>
+									<ChildAges>    
+										<ChildAge>7</ChildAge>
+										<ChildAge>12</ChildAge>
+										</ChildAges>
+							</Rooms>
+			<SpecialRequest></SpecialRequest>
+			<VendorCommission CommissionAmount="274.23" IGSTPercentage="18.0" IGSTAmount="49.37" CGSTPercentage="0.0" CGSTAmount="" SGSTPercentage="0.0" SGSTAmount="" UTGSTPercentage="0.0" UTGSTAmount="" />
+											</Hotel>
+			<Charges>
+			    				<Charge Currency="INR" Description="HOTEL17" Gross="-776.0" Net="0" SchemeCode="" PNRNO="" Quantity="1" Type="Promotional Discount"  />
+								<Charge Currency="INR" AmountOnGSTCharged="277.77"  Rate="9.0" Description="SGST" Gross="25.00" Net="25.00" SchemeCode="" PNRNO="" Quantity="1" Type="SGST"  />
+								<Charge Currency="INR" AmountOnGSTCharged="277.77"  Rate="9.0" Description="CGST" Gross="25.00" Net="25.00" SchemeCode="" PNRNO="" Quantity="1" Type="CGST"  />
+								<Charge Currency="INR" Description="Convenience Fee" Gross="277.77" Net="0" SchemeCode="" PNRNO="" Quantity="1" Type="Additional Fee"  />
+							</Charges>
+	</HotelInfo>
+			 <YatraLoyalty UserId="manojkr.mail@gmail.com">
+	   		<YatraLoyaltyPoints Amount="353" Pnr="YATMB0004488274" Type="Hotel" />
+  	   	</YatraLoyalty>
+  	  	
+  			
+</BookingXML>

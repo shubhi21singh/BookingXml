@@ -19,7 +19,6 @@ public class InsertNewProduct {
                 //"http://127.0.0.1:8082/mo/v1/GST/";
                 //"http://192.168.61.73:2498/mo/v1/GST/";
                 //"http://172.16.6.15:2498/mo/v1/GST/";
-                //"http://mo.internals.yatra.com/mo/v1/GST/";
         ArrayList<Integer> union_territories =new ArrayList<>();
         union_territories.add(4);
         union_territories.add(7);
